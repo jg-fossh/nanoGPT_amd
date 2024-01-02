@@ -1,3 +1,6 @@
+Made this fork for experimenting on old AMD GPUs. I found that hard coding data types to float16 improves performance vastly for AMD AI acceleration.
+
+I explain a littler further on why here : [Turbocharge Your NanoGPT Training: An ~17x Speed Boost AMD GPU for faster AI Acceleration](https://piecebypost.com/2024/01/01/turbocharge-your-nanogpt-training-an-17x-speed-boost-for-amd-gpu-on-ai-acceleration/)
 
 # nanoGPT
 
